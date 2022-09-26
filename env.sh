@@ -1,7 +1,7 @@
 export REGISTRY_URL=registry-isc.fpt.net
-export REGISTRY_USER=gioi-thieu-ban-be
-export REGISTRY_PASS=fUIGzbnqGo73TH6n
+export REGISTRY_USER=informative-portal
+export REGISTRY_PASS=vThwzsmMeI6Mu25d
 
-export PROJECT_NAME=gioi-thieu-ban-be
+export PROJECT_NAME=informative-portal
 export SERVICE_NAME=api
 export REGISTRY_URI=/$PROJECT_NAME/$SERVICE_NAME-base-image

@@ -3,7 +3,7 @@ stages:
 
 manual-build:
   variables:
-    BASE_IMAGE_TAG: 1.0.0
+    BASE_IMAGE_TAG: 1.1.1
   tags:
     - devenv
   stage: build
